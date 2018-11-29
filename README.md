@@ -5,4 +5,6 @@ This program is not original. The interface design is from another open source p
 
 You are very welcome to download and test it. I would very like to discuss with you if you find some bugs
 
+Any question, please feel free to contact me. email: zjukevin@163.com 
+
 
