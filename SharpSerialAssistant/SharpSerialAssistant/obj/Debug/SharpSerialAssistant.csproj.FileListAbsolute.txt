@@ -1,0 +1,15 @@
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\bin\Debug\SharpSerialAssistant.exe
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\bin\Debug\SharpSerialAssistant.pdb
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\obj\Debug\About.g.cs
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\obj\Debug\MainWindow.g.cs
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\obj\Debug\App.g.cs
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\obj\Debug\SharpSerialAssistant_MarkupCompile.cache
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\obj\Debug\SharpSerialAssistant_MarkupCompile.lref
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\obj\Debug\About.baml
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\obj\Debug\MainWindow.baml
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\obj\Debug\SharpSerialAssistant.g.resources
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\obj\Debug\SharpSerialAssistant.Properties.Resources.resources
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\obj\Debug\SharpSerialAssistant.csproj.GenerateResource.cache
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\obj\Debug\SharpSerialAssistant.csproj.CoreCompileInputs.cache
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\obj\Debug\SharpSerialAssistant.exe
+D:\csharpworkspace\SharpSerialAssistant\SharpSerialAssistant\obj\Debug\SharpSerialAssistant.pdb
